@@ -69,7 +69,7 @@ its access, and contact support for account data requests.
 - [Documentation](https://docs.yadulink.com/)
 - [Privacy policy](https://yadulink.com/privacy-policy)
 - [Service terms](https://yadulink.com/cgv)
-- Support: **support@yadulink.com**
+- [Support](https://docs.yadulink.com/) or **support@yadulink.com**
 
 Published by **AVICLICK (YADULINK)**. Yadulink is independent of LinkedIn and
 Anthropic; this plugin does not imply their endorsement.
