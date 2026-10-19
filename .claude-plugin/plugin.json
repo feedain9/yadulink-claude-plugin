@@ -9,6 +9,10 @@
     "url": "https://yadulink.com"
   },
   "homepage": "https://yadulink.com",
+  "documentationUrl": "https://docs.yadulink.com/",
+  "supportUrl": "https://docs.yadulink.com/",
+  "privacyPolicyUrl": "https://yadulink.com/privacy-policy",
+  "termsOfServiceUrl": "https://yadulink.com/cgv",
   "repository": "https://github.com/feedain9/yadulink-claude-plugin",
   "license": "LicenseRef-Proprietary",
   "keywords": ["linkedin", "outreach", "sales", "crm", "yadulink"]
