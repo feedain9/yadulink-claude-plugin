@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "yadulink": {
+      "type": "http",
+      "url": "https://mcp.yadulink.com/mcp/"
+    }
+  }
+}

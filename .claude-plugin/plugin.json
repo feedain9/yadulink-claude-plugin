@@ -1,0 +1,15 @@
+{
+  "name": "yadulink",
+  "displayName": "Yadulink",
+  "version": "1.0.0",
+  "description": "Manage LinkedIn outreach: prioritize contacts, triage your inbox, find prospects, review sequences, and track growth with Yadulink.",
+  "author": {
+    "name": "Yadulink",
+    "email": "support@yadulink.com",
+    "url": "https://yadulink.com"
+  },
+  "homepage": "https://yadulink.com",
+  "repository": "https://github.com/feedain9/yadulink-claude-plugin",
+  "license": "LicenseRef-Proprietary",
+  "keywords": ["linkedin", "outreach", "sales", "crm", "yadulink"]
+}
